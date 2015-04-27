@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OutdoorWithGoogleMaps</string>
+    <string name="title_activity_maps">OutdoorMap</string>
+</resources>
